@@ -76,3 +76,5 @@ integrations/windsurf/.windsurfrules
 integrations/openclaw/*
 integrations/qwen/agents/
 !integrations/openclaw/README.md
+!integrations/openclaw/workflows/
+!integrations/openclaw/workflows/**/*
